@@ -1,1 +1,0 @@
-Python Everthing is object)
